@@ -1,0 +1,95 @@
+body{
+  margin: 0px;
+}
+
+#TopNavigationBar{
+  background-color: grey;
+  height: 12%;
+  margin: 0px;
+}
+
+#TopNavigationBar li{
+  text-decoration: none;
+  display: inline;
+  float: right;
+  padding: 15px;
+}
+
+#TopNavigationBar li:hover{
+  background-color: black;
+}
+
+#TopNavigationBar li a{
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 35px;
+  color: orange;
+}
+
+#TopNavigationBar li a:hover{
+  color: yellow;
+}
+
+#Menu {
+  height: 108%;
+  width: 117px;
+  background-color: black;
+  border-right: 2px solid black;
+  margin: 0px;
+  float: left;
+}
+
+#Menu li{
+  list-style: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  padding-top: 25px
+}
+
+#Menu li a{
+  color: orange;
+}
+
+#Menu li a:hover{
+  color: yellow;
+}
+
+#Description {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+#Fries {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+#ChickenTitle {
+  color: red;
+}
+
+#FriesTitle {
+  color: red;
+}
+
+#EventsTitle {
+  color: red;
+}
+
+#AboutTitle {
+  color: red;
+}
+
+#BowlTitle {
+  color: red;
+}
+
+#DessertsTitle {
+  color: red;
+}
+
+#SandwhichesTitle {
+  color: red;
+}
